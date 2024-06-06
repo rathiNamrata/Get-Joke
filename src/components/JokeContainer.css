@@ -1,0 +1,15 @@
+button {
+    background-color: darkcyan;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    padding: 20px 30px;
+    margin-top: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.get-joke-button{
+    display: flex;
+    justify-content: center;
+}
